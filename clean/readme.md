@@ -1,8 +1,6 @@
 # Sistema Bancário - Clean Architecture (Python)
 
-Exercício 3: refatoração do sistema bancário para **Clean Architecture**, aplicando o
-**Princípio da Inversão de Dependência (DIP)**. Os dados agora são salvos no arquivo
-`contas.txt`, então as contas continuam existindo depois de fechar o programa.
+Exercício 3
 
 ## Estrutura
 
